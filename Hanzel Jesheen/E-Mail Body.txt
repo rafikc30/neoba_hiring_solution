@@ -1,0 +1,4 @@
+Hi, 
+I have attached the c program file (magic_square.c), which is the answer for the question asked in connection with the application for the part-time job.
+
+Hanzel Jesheen

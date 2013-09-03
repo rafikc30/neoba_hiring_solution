@@ -1,0 +1,3 @@
+In response to your previous mail regarding the selection of candidates for part time job you are offering, I hereby attach my solution to the given question( to write a c program to find whether a given matrix is magic square or not).
+
+Thank you

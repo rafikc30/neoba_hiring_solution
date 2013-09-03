@@ -1,0 +1,3 @@
+Sir,
+This is my magic square program and i have included a general case(nxn order square) program with the 3x3 program.
+Thank you

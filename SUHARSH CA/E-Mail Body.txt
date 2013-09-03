@@ -1,0 +1,11 @@
+SUHARSH C A
+S3 CSE
+COLLEGE OF ENGINEERING
+TRIVANDRUM
+
+Sir,
+                  I have coded the program in both C and C++.MA.CPP was coded in C and the other MAGIC.CPP in C++.At the time of coding I have used "TURBO C COMPILER".
+   Basically what my program does is,
+                   At first it inputs one marix of order 3x3 as given in the problem statement. Then it checks whether all numbers from 1-9 is present or not and whether any number is repeated or presence of zero.If any of the following cases are true it identifies the matrix to be an invalid entry and not magic.It informs the users that numbers 1-9 should be present. and displays which all numbers have been repeated or not present in the matrix.
+                  Otherwise it finds sum of two diagonal elements and stores it in seperate variables and sums of three columns and rows and stores it in col and row array of size 3.
+                   Then it makes a comparison whether the two diagonal sums and three column and row sums are equal or not.If equal then the matrix entered is reported as a magic matrix;otherwise not magic.
